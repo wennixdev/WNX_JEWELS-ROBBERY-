@@ -1,0 +1,16 @@
+{
+    "break_window": "Rozbijte okno",
+    "find_code": "Najdete kod alarmu",
+    "enter_code": "Zadejte kod",
+    "robbing_inprogress": "Loupez jiz probiha, vratte se pozdeji",
+    "spam": "Dychejte, rychleji to nepujde!",
+    "already_broken": "V tomto okne jste jiz leteli",
+    "inv_full": "Vas inventar je plny",
+    "loot": "Ukradl jsi",
+    "no_code": "Tady nic",
+    "jewel_robbery": "Nejprve zacnete loupez",
+    "code": "Code Alarm",
+    "invalid_code": "Neplatny kod.",
+    "alarm_off": "Alarm vypnuty",
+    "alarm_notify": "Probiha loupez - Alarm GPS pozice"
+}
